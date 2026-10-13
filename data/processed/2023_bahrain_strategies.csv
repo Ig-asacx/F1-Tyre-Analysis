@@ -1,0 +1,21 @@
+Driver,Team,NumberOfStops,NumberOfStints,StrategyString,FullStrategyDescription,StartingCompound,FinalCompound,TotalLaps
+VER,Red Bull Racing,2,3,S → S → H,S → S → H (2-Stop),SOFT,HARD,57
+GAS,Alpine,3,4,S → H → H → S,S → H → H → S (3-Stop),SOFT,SOFT,57
+PER,Red Bull Racing,2,3,S → S → H,S → S → H (2-Stop),SOFT,HARD,57
+ALO,Aston Martin,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+LEC,Ferrari,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,40
+STR,Aston Martin,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+SAR,Williams,3,4,S → S → H → S,S → S → H → S (3-Stop),SOFT,SOFT,56
+MAG,Haas F1 Team,3,4,H → H → S → S,H → H → S → S (3-Stop),HARD,SOFT,56
+DEV,AlphaTauri,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,56
+TSU,AlphaTauri,3,4,S → H → H → S,S → H → H → S (3-Stop),SOFT,SOFT,57
+ALB,Williams,3,4,S → S → H → S,S → S → H → S (3-Stop),SOFT,SOFT,57
+ZHO,Alfa Romeo,3,4,S → H → S → S,S → H → S → S (3-Stop),SOFT,SOFT,56
+HUL,Haas F1 Team,3,4,S → H → H → S,S → H → H → S (3-Stop),SOFT,SOFT,56
+OCO,Alpine,3,4,S → H → H → H,S → H → H → H (3-Stop),SOFT,HARD,41
+NOR,McLaren,6,7,S → H → S → M → H → S → S,S → H → S → M → H → S → S (6-Stop),SOFT,SOFT,55
+HAM,Mercedes,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+SAI,Ferrari,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+RUS,Mercedes,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+BOT,Alfa Romeo,2,3,S → H → H,S → H → H (2-Stop),SOFT,HARD,57
+PIA,McLaren,0,1,S,S (0-Stop),SOFT,SOFT,13

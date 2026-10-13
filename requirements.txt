@@ -1,0 +1,24 @@
+# Formula 1 Tyre Strategy Analysis - Dependency Manifest
+# Python >= 3.10 required (Verified on Python 3.14.5)
+
+# Formula 1 Official Timing & Telemetry Data Feed
+fastf1>=3.4.0
+
+# Data Manipulation & Array Computing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Statistical & Machine Learning Modeling (Degradation regression)
+scikit-learn>=1.4.0
+scipy>=1.12.0
+
+# Data Visualization Engines
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.20.0
+
+# Interactive Web Application Dashboard
+streamlit>=1.35.0
+
+# Automated Testing Framework
+pytest>=8.0.0

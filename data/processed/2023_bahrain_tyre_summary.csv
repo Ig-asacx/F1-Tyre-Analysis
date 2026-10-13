@@ -1,0 +1,4 @@
+Compound,TotalLapsRun,PercentageOfRaceLaps,UniqueDriversUsing,ColorHex,StintCount,AvgStintLength,MedianStintLength,MinStintLength,MaxStintLength,StdStintLength,RepresentativeLapCount,MeanPace_Seconds,MedianPace_Seconds,StdPace_Seconds,FastestLap_Seconds,SlowestLap_Seconds,DeltaToFastest_Seconds
+HARD,589,55.78,19,#CCCCCC,34,17.3,16.5,3,29,6.4,494,98.192,98.106,0.884,96.156,100.773,0.338
+SOFT,457,43.28,20,#FF1801,35,13.1,13.0,1,22,4.4,374,98.954,98.827,1.524,93.996,102.267,1.059
+MEDIUM,10,0.95,1,#F5D033,1,10.0,10.0,10,10,0.0,7,97.732,97.768,0.292,97.26,98.111,0.0

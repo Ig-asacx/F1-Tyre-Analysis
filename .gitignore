@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastF1 cache & data persistence
+data/cache/
+data/raw/*.pkl
+data/raw/*.sqlite
+*.sqlite
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Streamlit
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

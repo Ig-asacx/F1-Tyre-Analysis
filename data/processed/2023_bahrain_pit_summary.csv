@@ -1,0 +1,21 @@
+Driver,Team,TotalPitStops,StrategyCategory,PitStopLaps,AvgPitLaneDuration_Seconds,FastestPitLaneDuration_Seconds,FinishingPosition,Status
+VER,Red Bull Racing,2,2-Stop,"[14, 36]",24.617,24.297,1.0,Finished
+PER,Red Bull Racing,2,2-Stop,"[17, 34]",24.672,24.281,2.0,Finished
+ALO,Aston Martin,2,2-Stop,"[14, 34]",25.312,24.844,3.0,Finished
+SAI,Ferrari,2,2-Stop,"[13, 31]",24.39,24.25,4.0,Finished
+HAM,Mercedes,2,2-Stop,"[12, 30]",24.663,24.655,5.0,Finished
+STR,Aston Martin,2,2-Stop,"[15, 30]",25.03,24.624,6.0,Finished
+RUS,Mercedes,2,2-Stop,"[13, 31]",25.687,24.39,7.0,Finished
+BOT,Alfa Romeo,2,2-Stop,"[11, 29]",25.476,25.343,8.0,Finished
+GAS,Alpine,3,3-Stop,"[9, 25, 40]",25.192,24.749,9.0,Finished
+ALB,Williams,3,3-Stop,"[11, 26, 40]",24.802,24.5,10.0,Finished
+TSU,AlphaTauri,3,3-Stop,"[10, 26, 40]",25.124,24.39,11.0,Finished
+SAR,Williams,3,3-Stop,"[12, 30, 40]",25.437,25.029,12.0,Lapped
+MAG,Haas F1 Team,3,3-Stop,"[15, 29, 40]",25.312,25.125,13.0,Lapped
+DEV,AlphaTauri,2,2-Stop,"[11, 27]",25.109,24.984,14.0,Lapped
+HUL,Haas F1 Team,3,3-Stop,"[11, 26, 40]",30.312,26.077,15.0,Lapped
+ZHO,Alfa Romeo,3,3-Stop,"[12, 32, 54]",27.093,25.359,16.0,Lapped
+NOR,McLaren,6,6-Stop,"[10, 17, 27, 37, 47, 54]",32.606,30.734,17.0,Lapped
+OCO,Alpine,4,4-Stop,"[12, 15, 32, 41]",36.989,24.984,18.0,Retired
+LEC,Ferrari,2,2-Stop,"[13, 33]",24.46,24.421,19.0,Retired
+PIA,McLaren,1,1-Stop,[13],,,20.0,Retired
